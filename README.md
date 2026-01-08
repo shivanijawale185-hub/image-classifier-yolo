@@ -1,1 +1,7 @@
-# image-classifier-yolo
+streamlit==1.30.0
+ultralytics==8.0.230
+torch==2.0.1
+torchvision==0.15.2
+opencv-python-headless
+pillow
+numpy
